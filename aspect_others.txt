@@ -1,0 +1,27 @@
+A1_h1
+Ghati Lagna (GL)_h1
+Hora Lagna (HL)_h1
+Moon_h1
+Moon_h2
+Moon_h3
+Moon_h4
+Moon_h5
+Moon_h6
+Moon_h7
+Moon_h8
+Moon_h9
+Moon_h10
+Moon_h11
+Moon_h12
+Sun_h1
+Sun_h2
+Sun_h3
+Sun_h4
+Sun_h5
+Sun_h6
+Sun_h7
+Sun_h8
+Sun_h9
+Sun_h10
+Sun_h11
+Sun_h12

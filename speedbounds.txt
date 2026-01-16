@@ -1,0 +1,104 @@
+SURYA SIDDHANTA PLANETARY SPEED BOUNDS (GATI)
+Units: degrees/day. Format: (Lower Bound to Upper Bound)
+========================================================
+
+PLANET: MERCURY
+  Sighratara (Fastest)  :  1.645399 to  2.202254
+  Sighra (Fast)         :  1.088545 to  1.645399
+  Sama (Average)        :  0.890627 to  1.088545
+  Manda (Slow)          :  0.247396 to  0.890627
+  Mandatara (Near Zero) :  0.000000 to  0.247396
+  Kutila (Stationary)   : -0.002000 to  0.002000
+  Anuvakra (Slow Retro) : -0.692693 to  0.000000
+  Vakra (Fast Retro)    : -1.385385 to -0.692693
+--------------------------------------------------
+PLANET: VENUS
+  Sighratara (Fastest)  :  1.176997 to  1.258712
+  Sighra (Fast)         :  1.095281 to  1.176997
+  Sama (Average)        :  0.896139 to  1.095281
+  Manda (Slow)          :  0.248927 to  0.896139
+  Mandatara (Near Zero) :  0.000000 to  0.248927
+  Kutila (Stationary)   : -0.002000 to  0.002000
+  Anuvakra (Slow Retro) : -0.314854 to  0.000000
+  Vakra (Fast Retro)    : -0.629709 to -0.314854
+--------------------------------------------------
+PLANET: SUN
+  Sighratara (Fastest)  :  1.019730 to  1.051968
+  Sighra (Fast)         :  1.051968 to  1.084205
+  Sama (Average)        :  0.887077 to  1.084205
+  Manda (Slow)          :  0.246410 to  0.887077
+  Mandatara (Near Zero) :  0.000000 to  0.246410
+  Kutila (Stationary)   : -0.002000 to  0.002000
+  Anuvakra (Slow Retro) : N/A (Never Retro)
+  Vakra (Fast Retro)    : N/A (Never Retro)
+--------------------------------------------------
+PLANET: MARS
+  Sighratara (Fastest)  :  0.683687 to  0.790529
+  Sighra (Fast)         :  0.576846 to  0.683687
+  Sama (Average)        :  0.471965 to  0.576846
+  Manda (Slow)          :  0.131101 to  0.471965
+  Mandatara (Near Zero) :  0.000000 to  0.131101
+  Kutila (Stationary)   : -0.002000 to  0.002000
+  Anuvakra (Slow Retro) : -0.200148 to  0.000000
+  Vakra (Fast Retro)    : -0.400296 to -0.200148
+--------------------------------------------------
+PLANET: JUPITER
+  Sighratara (Fastest)  :  0.168845 to  0.241987
+  Sighra (Fast)         :  0.095702 to  0.168845
+  Sama (Average)        :  0.078302 to  0.095702
+  Manda (Slow)          :  0.021750 to  0.078302
+  Mandatara (Near Zero) :  0.000000 to  0.021750
+  Kutila (Stationary)   : -0.002000 to  0.002000
+  Anuvakra (Slow Retro) : -0.068285 to  0.000000
+  Vakra (Fast Retro)    : -0.136570 to -0.068285
+--------------------------------------------------
+PLANET: SATURN
+  Sighratara (Fastest)  :  0.085180 to  0.130127
+  Sighra (Fast)         :  0.040233 to  0.085180
+  Sama (Average)        :  0.032918 to  0.040233
+  Manda (Slow)          :  0.009144 to  0.032918
+  Mandatara (Near Zero) :  0.000000 to  0.009144
+  Kutila (Stationary)   : -0.002000 to  0.002000
+  Anuvakra (Slow Retro) : -0.041307 to  0.000000
+  Vakra (Fast Retro)    : -0.082614 to -0.041307
+--------------------------------------------------
+PLANET: URANUS
+  Sighratara (Fastest)  :  0.034916 to  0.058222
+  Sighra (Fast)         :  0.011611 to  0.034916
+  Sama (Average)        :  0.009500 to  0.011611
+  Manda (Slow)          :  0.002639 to  0.009500
+  Mandatara (Near Zero) :  0.000000 to  0.002639
+  Kutila (Stationary)   : -0.002000 to  0.002000
+  Anuvakra (Slow Retro) : -0.020258 to  0.000000
+  Vakra (Fast Retro)    : -0.040515 to -0.020258
+--------------------------------------------------
+PLANET: NEPTUNE
+  Sighratara (Fastest)  :  0.024362 to  0.042259
+  Sighra (Fast)         :  0.006465 to  0.024362
+  Sama (Average)        :  0.005289 to  0.006465
+  Manda (Slow)          :  0.001469 to  0.005289
+  Mandatara (Near Zero) :  0.000000 to  0.001469
+  Kutila (Stationary)   : -0.002000 to  0.002000
+  Anuvakra (Slow Retro) : -0.013742 to  0.000000
+  Vakra (Fast Retro)    : -0.027483 to -0.013742
+--------------------------------------------------
+PLANET: PLUTO
+  Sighratara (Fastest)  :  0.022551 to  0.038738
+  Sighra (Fast)         :  0.006365 to  0.022551
+  Sama (Average)        :  0.005207 to  0.006365
+  Manda (Slow)          :  0.001447 to  0.005207
+  Mandatara (Near Zero) :  0.000000 to  0.001447
+  Kutila (Stationary)   : -0.002000 to  0.002000
+  Anuvakra (Slow Retro) : -0.013555 to  0.000000
+  Vakra (Fast Retro)    : -0.027109 to -0.013555
+--------------------------------------------------
+PLANET: TRUE NODE
+  Sighratara (Fastest)  :  0.033445 to  0.035117
+  Sighra (Fast)         :  0.035117 to  0.036790
+  Sama (Average)        :  0.030101 to  0.036790
+  Manda (Slow)          :  0.008361 to  0.030101
+  Mandatara (Near Zero) :  0.000000 to  0.008361
+  Kutila (Stationary)   : -0.002000 to  0.002000
+  Anuvakra (Slow Retro) : -0.124033 to  0.000000
+  Vakra (Fast Retro)    : -0.248065 to -0.124033
+--------------------------------------------------

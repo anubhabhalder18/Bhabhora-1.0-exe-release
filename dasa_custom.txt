@@ -1,0 +1,12 @@
+[DEFAULT]
+YEARS=7,20,6,10,7,18,16,19,17
+NAK_RULERS=Ketu,Venus,Sun,Moon,Mars,Rahu,Jupiter,Saturn,Mercury,Ketu,Venus,Sun,Moon,Mars,Rahu,Jupiter,Saturn,Mercury,Ketu,Venus,Sun,Moon,Mars,Rahu,Jupiter,Saturn,Mercury
+
+[Sodhashattori dasa]
+YEARS=15,18,13,16,12,0,13,14,17
+NAK_RULERS=Ketu,Moon,Mercury,Venus,Sun,Mars,Jupiter,Sun,Mars,Jupiter,Saturn,Ketu,Moon,Mercury,Venus,Sun,Mars,Jupiter,Saturn,Ketu,Moon,Mercury,Venus,Sun,Mars,Jupiter,Saturn
+
+[Chaturashiti]
+YEARS=0,12,12,12,12,0,12,12,12
+NAK_RULERS=Venus,Saturn,Sun,Moon,Mars,Mercury,Jupiter,Venus,Saturn,Sun,Moon,Mars,Mercury,Jupiter,Saturn,Sun,Moon,Mars,Mercury,Jupiter,Venus,Saturn,Sun,Moon,Mars,Mercury,Jupiter
+

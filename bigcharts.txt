@@ -1,0 +1,14 @@
+D1 Chart
+D9 Navamasa Chart
+D3 Drekkana
+D3 Varanasi Drekkna
+D10 Chart
+D10 RvEven Chart
+D12 Chart
+D16 Chart
+D24 ReEv Chart
+D28 Chart
+D40 Chart
+D45 Chart
+D60 Chart
+D81 Chart

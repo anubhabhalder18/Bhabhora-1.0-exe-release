@@ -1,0 +1,3 @@
+house_mode=-15 to +15
+antar_mode=Current
+lagna_mode=Auto
