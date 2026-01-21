@@ -1,0 +1,30 @@
+{
+    "Vimshottari": {
+        "years": {
+            "Ketu": 7.0,
+            "Venus": 20.0,
+            "Sun": 6.0,
+            "Moon": 10.0,
+            "Mars": 7.0,
+            "Rahu": 18.0,
+            "Jupiter": 16.0,
+            "Saturn": 19.0,
+            "Mercury": 17.0
+        },
+        "days": 365.25
+    },
+    "yearly_vimshottari": {
+        "years": {
+            "Ketu": 7.0,
+            "Venus": 20.0,
+            "Sun": 6.0,
+            "Moon": 10.0,
+            "Mars": 7.0,
+            "Rahu": 18.0,
+            "Jupiter": 16.0,
+            "Saturn": 19.0,
+            "Mercury": 17.0
+        },
+        "days": 3.05
+    }
+}

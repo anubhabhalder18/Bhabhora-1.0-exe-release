@@ -2,13 +2,22 @@ D1 Chart
 D9 Navamasa Chart
 D3 Drekkana
 D3 Varanasi Drekkna
+D3 Pravritti
+D4 Chart
+D4 Pravitti Chart
+D7 ReEv Chart
 D10 Chart
 D10 RvEven Chart
 D12 Chart
 D16 Chart
+D20 Chart
 D24 ReEv Chart
+D27 Chart
 D28 Chart
 D40 Chart
 D45 Chart
 D60 Chart
+D60 PVNR RAO Chart
 D81 Chart
+d108 Chart
+D144 Chart

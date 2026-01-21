@@ -10,3 +10,11 @@ NAK_RULERS=Ketu,Moon,Mercury,Venus,Sun,Mars,Jupiter,Sun,Mars,Jupiter,Saturn,Ketu
 YEARS=0,12,12,12,12,0,12,12,12
 NAK_RULERS=Venus,Saturn,Sun,Moon,Mars,Mercury,Jupiter,Venus,Saturn,Sun,Moon,Mars,Mercury,Jupiter,Saturn,Sun,Moon,Mars,Mercury,Jupiter,Venus,Saturn,Sun,Moon,Mars,Mercury,Jupiter
 
+[Diswapati Sama]
+YEARS=9,9,9,9,9,9,9,9,9
+NAK_RULERS=Moon,Mars,Mercury,Jupiter,Venus,Saturn,Rahu,Sun,Moon,Mars,Mercury,Jupiter,Venus,Saturn,Rahu,Sun,Moon,Mars,Sun,Moon,Mars,Mercury,Jupiter,Venus,Saturn,Rahu,Sun
+
+[Chaturasnetthi Dasa]
+YEARS=0,12,12,12,12,0,12,12,12
+NAK_RULERS=Sun,Moon,Mars,Mercury,Jupiter,Venus,Saturn,Sun,Moon,Mars,Mercury,Jupiter,Venus,Saturn,Sun,Moon,Mars,Mercury,Jupiter,Venus,Saturn,Sun,Moon,Mars,Mercury,Jupiter,Venus,Saturn
+

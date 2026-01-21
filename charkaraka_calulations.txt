@@ -1,4 +1,4 @@
 system=8
 all_retro_reversed=1
 minute_basis=0
-use_d1_only=0
+use_d1_only=1
